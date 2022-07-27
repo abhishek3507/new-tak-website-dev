@@ -2,7 +2,6 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import Link from "next/link";
 import { useDispatch } from "react-redux";
-import CustomRightArrow from "./CustomRightArrow"
 import channelListSlice from "../../store/channel-list/channelListSlice";
 import { useEffect } from "react";
 
@@ -37,6 +36,7 @@ const Channels = ({ category, channels, currentChannelId }) => {
   return (
     <section className="bg-white py-2 channel-header">
       <div className="container">
+    
         <Carousel
           swipeable={true}
           draggable={true}
@@ -84,6 +84,7 @@ const Channels = ({ category, channels, currentChannelId }) => {
             </div>
           ))}
         </Carousel>
+       
       </div>
     </section>
   );

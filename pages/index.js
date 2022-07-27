@@ -9,7 +9,6 @@ const Index = ({ data, category, channels, currentChannelId }) => {
   const router=useRouter();
   return (
     <>
-    
     <HomeHeadTag sefUrl={'home'} url={process.env.NEXT_PUBLIC_WEBSITE_URL+router.asPath}></HomeHeadTag>
     <CommonCategory data={data} category={category} channels={channels} currentChannelId={currentChannelId} />;
     </>

@@ -79,7 +79,7 @@ const MyProfile = () => {
         const response = dispatch(saveUserProfileAction(obj));
         response.then(res=>{
             if(res){
-                dispatch(getUserProfileAction(userObj.uid));
+                dispatch(getUserProfileAction(obj.uid));
             }
         })
         
