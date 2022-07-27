@@ -1,0 +1,81 @@
+{   
+    "download":"ಡೌನ್‍ಲೋಡ್",
+    "share":"ಶೇರ್",
+    "caste_vote":"ವೋಟ್ ಮಾಡಿ",
+    "header":{
+        "election_results":"Election Result",
+        "my_profile":"ಸ್ವ ವಿವರ",
+        "preference":"ಚಾನೆಲ್ ಆಯ್ಕೆ",
+        "feedback":"ಫೀಡ್‍ಬ್ಯಾಕ್",
+        "rss":"ರ್ ಸ್ ಸ್ ",
+        "about_us":"ನಮ್ಮ ಬಗ್ಗೆ",
+        "contact_info":"ಸಂಪರ್ಕಿಸಿ",
+        "privacy_policy":"ಗೌಪ್ಯತಾ ನೀತಿ",
+        "terms_and_conditions":"ಬಳಕೆಯ ನಿಯಮಗಳು",
+        "log_in":"ಲಾಗ್ಇನ್",
+        "log_out":"ಲಾಗ್‍ಔಟ್",
+        "language":{
+            "title":"ಭಾಷೆ ಬದಲಿಸಿ",
+            "english":"English",
+            "hindi":"हिन्दी",
+            "gujarati":"ગુજરાતી",
+            "punjabi":"ਪੰਜਾਬੀ",
+            "marathi":"मराठी",
+            "kannada":"ಕನ್ನಡ"
+        }        
+    },
+    "footer":{
+        "home":"ಹೋಮ್",
+        "shorts":"ಫಟಾಕ್",
+        "spotlight":"ಸ್ಪಾಟ್‍ಲೈಟ್",
+        "discover":"ಅನ್ವೇಷಿಸಿ",
+        "social_news":"ಸೋಶಿಯಲ್ ನ್ಯೂಸ್"
+    },
+    "spotlight":{
+        "search_spotlight":"ಸರ್ಚ್ ಸ್ಪಾಟ್‍ಲೈಟ್",
+        "all_stories":"ಎಲ್ಲ ಸ್ಟೋರಿಗಳು",
+        "no_story":"ಸ್ಟೋರಿ ಇಲ್ಲ"
+    },
+    "discover":{
+        "spotlight":"ಸ್ಪಾಟ್‍ಲೈಟ್",
+        "caste_vote":"ವೋಟ್ ಮಾಡಿ",
+        "breaking_for_you":"ಬ್ರೇಕಿಂಗ್ ಸುದ್ದಿ"
+    },
+    "live":{
+        "comments":"ಕಾಮೆಂಟ್",
+        "view_previous_comments":"ಹಿಂದಿನ ಕಾಮೆಂಟ್ ಲೋಡ್ ಮಾಡಿ",
+        "no_comments_yet":"ಕಾಮೆಂಟ್!",
+        "be_the_first_to_comment":"ಮಾಡಲು ಮೊದಲಿಗರಾಗಿ",
+        "sign_in_to_comment":"ಕಾಮೆಂಟ್ ಮಾಡಲು ಸೈನ್‍ಇನ್  ಆಗಿ",
+        "no_live":"ಲೈವ್ ಮುಗಿದಿದೆ"
+    },
+    "login":{
+        "main_title":"ತಕ್ ಆ್ಯಪ್‍ಗೆ ಸ್ವಾಗತ!",
+        "secondary_title":"ಸೈನ್‍ಇನ್ ಆಗಿ",
+        "google_sign_in":"ಗೂಗಲ್ ಮೂಲಕ ಸೈನ್‍ಇನ್  ಆಗಿ",
+        "agree_line_1":"ಬಳಕೆಯ ನಿಯಮಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ",
+        "agree_line_2":"ನಾನು",
+        "agree_line_3":""
+    },
+    "profile":{
+        "my_profile":"ಸ್ವ ವಿವರ",
+        "edit_profile":"ಸ್ವ ವಿವರದ ಬದಲಾವಣೆ",
+        "username":"ಬಳಕೆದಾರರ ಹೆಸರು",
+        "full_name":"ಪೂರ್ಣ ಹೆಸರು",
+        "email":"ಇ-ಮೇಲ್",
+        "save":"ಸೇವ್ ಮಾಡಿ",
+        "welcome":"ಸ್ವಾಗತ!",
+        "welcome_start":"ಆರಂಭಕ್ಕೂ ಮುನ್ನ ಬಳಕೆದಾರರ ಹೆಸರು ದಾಖಲಿಸಿ",
+        "user_name_not_available":"ಬಳಕೆದಾರರ ಹೆಸರು ಸಿಗುತ್ತಿಲ್ಲ!",
+        "welcome_continue":"ಮುಂದುವರೆಯಿರಿ"
+    },
+    "preference":{
+        "select_preference":"ಚಾನೆಲ್ ಆಯ್ಕೆ",
+        "select_all":"ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ",
+        "save":"ಸೇವ್ ಮಾಡಿ"
+    },
+    "navigation":{
+        "title":"ಭಾಷೆ ಬದಲಿಸಿ",
+        "save":"ಸೇವ್ ಮಾಡಿ"
+    }
+}

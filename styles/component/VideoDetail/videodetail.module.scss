@@ -1,0 +1,136 @@
+@import "~video.js/dist/video-js.css";
+
+#videoPage #read-story {
+  margin-top: 73px;
+}
+
+#videoPage #read-story .py-2 h1 {
+  font-size: 20px;
+}
+
+#videoPage #read-story .py-2 h3 {
+  font-size: 16px;
+}
+
+#videoPage .read-card {
+  padding: 0 !important;
+}
+
+#videoPage .news-card {
+  border: 0px !important;
+}
+
+#videoPage .card {
+  border: none !important;
+  border-radius: 0px !important;
+}
+
+#videoPage .video-container {
+  min-height: 83vh;
+}
+
+#videoPage video {
+  width: 100%;
+}
+
+#videoPage .similar-story-card {
+  cursor: pointer;
+}
+
+#videoPage .similar-story-card-active {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+#videoPage .similar-story-card-img {
+  position: relative;
+}
+
+#videoPage .similar-story-card-text h6 {
+  font-size: 14px;
+  color: #2e2e2e;
+  line-height: 1.3;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  height: 2.6em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#videoPage .hr-line {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 95%;
+  margin: auto;
+}
+
+#videoPage .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+}
+
+#videoPage .infinite-scroll-section-spotlight {
+  height: auto;
+  overflow-y: scroll;
+}
+
+#videoPage #videoDiv {
+  position: sticky;
+  top: 73px;
+  z-index: 5;
+  max-width: 576px;
+}
+
+#videoPage #read-story .breadcrumb {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+#videoPage .read-card .breadcrumb-item.active {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  cursor: pointer;
+  width: 50%;
+}
+
+#videoPage .no-video {
+  background-color: white;
+  min-height: 83vh;
+  text-align: center;
+}
+
+#videoPage .no-video img {
+  width: 30%;
+  margin-top: 20px;
+}
+
+#videoPage .no-video h2 {
+  font-size: 20px;
+}
+
+/* #videoDiv{
+    width: 100%;
+    padding-top: 56.25%;
+    height: 0px;
+    position: relative;
+}
+
+#currentVideo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+} */

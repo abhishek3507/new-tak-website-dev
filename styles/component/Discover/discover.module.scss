@@ -1,0 +1,46 @@
+/* Vote Component */
+
+.voting-question-content p {
+  color: #212529 !important;
+  font-weight: normal;
+}
+
+#poll-question {
+  font-size: 15px;
+}
+
+#video-title{
+  font-size: 18px;
+}
+
+.voting-question{
+    min-height: 160px !important;
+}
+
+.vote-news-slider{
+  overflow: inherit !important;
+}
+
+.pollResultBlock{
+    width: 30%;
+    text-align: center;
+    /* text-align: right; */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid red;
+    color: #212529;
+    font-weight: 400;
+}
+
+#vote-section .react-multiple-carousel__arrow--right {
+    right: calc(1% + 1px) !important;
+}
+
+#vote-section .react-multiple-carousel__arrow--left {
+    left: calc(1% + 1px) !important;
+}
+
+#vote-section .react-multiple-carousel__arrow {
+    top: 25% !important;
+    font-weight: bold;
+}

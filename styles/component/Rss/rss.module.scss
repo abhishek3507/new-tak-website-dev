@@ -1,0 +1,31 @@
+#rss {
+    margin-top: 75px;
+}
+  
+.rss-container {
+    min-height: 83vh;
+}
+
+.channel-section-feeds{
+    text-align: left;
+}
+
+.channel-section-feeds .col-4{
+    display: flex;
+    align-items: center;
+}
+
+.channel-section-feeds .col-4 img{
+    width: 15%;
+}
+
+.channel-section-feeds a{
+    color: #212529;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.channel-section-feeds a:hover{
+    color: #ec2126;
+}

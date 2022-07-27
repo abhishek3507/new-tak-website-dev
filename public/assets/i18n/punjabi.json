@@ -1,0 +1,81 @@
+{   
+    "download":"ਡਾਊਨਲੋਡ",
+    "share":"ਸ਼ੇਅਰ",
+    "caste_vote":"ਵੋਟ ਕਰੋ",
+    "header":{
+        "election_results":"ਚੋਣਾਂ ਦੇ ਨਤੀਜੇ",
+        "my_profile":"ਮੇਰਾ ਪ੍ਰੋਫਾਇਲ",
+        "preference":"ਆਪਣੀ ਪਸੰਦ ਚੁਣੋ",
+        "feedback":"ਫੀਡਬੈਕ",
+        "rss":"ਰ ਸ ਸ",
+        "about_us":"ਸਾਡੇ ਬਾਰੇ 'ਚ",
+        "contact_info":"ਸੰਪਰਕ ਕਰੋ",
+        "privacy_policy":"ਨਿੱਜਤਾ ਨੀਤਿ",
+        "terms_and_conditions":"ਉਪਯੋਗ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+        "log_in":"ਲਾਗਿਨ",
+        "log_out":"ਲੌਗ ਆਉਟ",
+        "language":{
+            "title":"ਨੈਵੀਗੇਸ਼ਨ ਭਾਸ਼ਾ ਬਦਲੋ",
+            "english":"English",
+            "hindi":"हिन्दी",
+            "gujarati":"ગુજરાતી",
+            "punjabi":"ਪੰਜਾਬੀ",
+            "marathi":"मराठी",
+            "kannada":"ಕನ್ನಡ"
+        }        
+    },
+    "footer":{
+        "home":"ਹੋਮ",
+        "shorts":"ਫਟਾਕ",
+        "spotlight":"ਸਪੌਟਲਾਈਟ",
+        "discover":"ਡਿਸਕਵਰ",
+        "social_news":"ਸੋਸ਼ਲ ਨਿਊਜ਼"
+    },
+    "spotlight":{
+        "search_spotlight":"ਸਰਚ ਸਪੌਟਲਾਇਟ",
+        "all_stories":"ਸਾਰੀ ਸਟੋਰੀ",
+        "no_story":"ਕੋਈ ਸਟੋਰੀ ਨਹੀਂ ਹੈ"
+    },
+    "discover":{
+        "spotlight":"ਸਪੌਟਲਾਈਟ",
+        "caste_vote":"ਵੋਟ ਕਰੋ",
+        "breaking_for_you":"ਤੋੜਨ ਲਈ ਯੂ"
+    },
+    "live":{
+        "comments":"ਕਮੈਂਟ",
+        "view_previous_comments":"ਪਿਛਲੇ ਕਮੈਂਟਸ ਵੇਖੋ",
+        "no_comments_yet":"ਅਜੇ ਤੱਕ ਕੋਈ ਟਿੱਪਣੀ ਨਹੀਂ!",
+        "be_the_first_to_comment":"ਟਿੱਪਣੀ ਕਰਨ ਵਾਲੇ ਪਹਿਲੇ ਵਿਅਕਤੀ ਬਣੋ",
+        "sign_in_to_comment":"ਕਮੈਂਟ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ",
+        "no_live":"ਲਾਈਵ ਖਤਮ"
+    },
+    "login":{
+        "main_title":"ਤੱਕ 'ਤੇ ਸਵਾਗਤ ਹੈ!",
+        "secondary_title":"ਕ੍ਰਿਪਾ ਸਾਇਨ ਇਨ ਕਰੋ",
+        "google_sign_in":"ਗੂਗਲ ਤੋਂ ਸਾਇਨ ਇਨ ਕਰੋ",
+        "agree_line_1":"ਇਹ ਅਕਾਊਂਟ ਬਣਾਕੇ, ਮੈਂ ਤੱਕ ਐਪ ਨੂੰ",
+        "agree_line_2":"ਤੇ",
+        "agree_line_3":"ਸਵਿਕਾਰ ਕਰਦਾ ਹਾਂ."
+    },
+    "profile":{
+        "my_profile":"ਮੇਰਾ ਪ੍ਰੋਫਾਇਲ",
+        "edit_profile":"ਐਡਿਟ ਪ੍ਰੋਫਾਇਲ",
+        "username":"ਯੂਜ਼ਰਨੇਮ",
+        "full_name":"ਪੂਰਾ ਨਾਮ",
+        "email":"ਈ-ਮੇਲ",
+        "save":"ਸੇਵ",
+        "welcome":"ਵੈੱਲਕਮ!",
+        "welcome_start":"ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਯੂਜ਼ਰਨੇਮ ਪਾਓ.",
+        "user_name_not_available":"ਯੂਜ਼ਰ ਨਾਮ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ!",
+        "welcome_continue":"ਜਾਰੀ ਰੱਖੋ"
+    },
+    "preference":{
+        "select_preference":"ਆਪਣੀ ਪਸੰਦ ਚੁਣੋ",
+        "select_all":"ਸਭ ਚੁਣੋ",
+        "save":"ਸੇਵ"
+    },
+    "navigation":{
+        "title":"ਨੈਵੀਗੇਸ਼ਨ ਭਾਸ਼ਾ ਬਦਲੋ",
+        "save":"ਸੇਵ"
+    }
+}

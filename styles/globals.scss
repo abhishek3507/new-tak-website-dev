@@ -1,0 +1,47 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+@import "../public/assets/css/all.scss";
+@import "../public/assets/css/style.scss";
+@import "../public/assets/css/custom.scss";
+
+@import "./component/Header/header.module.scss";
+@import "./component/Footer/footer.module.scss";
+@import "./component/AboutUs/aboutUs.module.scss";
+@import "./component/ContactUs/contactUs.module.scss";
+@import "./component/Preferences/navigationLanguage.module.scss";
+@import "./component/Spotlight/spotlight.module.scss";
+@import "./component/Spotlight/spotlight-anchor-all.module.scss";
+@import "./component/Discover/discover.module.scss";
+@import "./component/Rss/rss.module.scss";
+@import "./component/TermsAndCondtions/terms-and-condtions.module.scss";
+@import "./component/PrivacyPolicy/privacy-policy.module.scss";
+@import "./component/MyProfile/my-profile.module.scss";
+@import "./component/Channels/channels.module.scss";
+@import "./component/Channels/channelCard.module.scss";
+@import "./component/VideoDetail/videodetail.module.scss";
+@import "./component/Shorts/shorts.module.scss";
+@import "./component/LiveNews/livenews.module.scss";
+
+.minimum-height {
+  min-height: 90vh;
+}
+
+.margin-top-75px {
+  margin-top: 75px;
+}
+
+.background-color-white {
+  background-color: white;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.react-multiple-carousel__arrow {
+  z-index: 1 !important;
+}
+
+.arrow_right{
+  background-color: brown;
+}

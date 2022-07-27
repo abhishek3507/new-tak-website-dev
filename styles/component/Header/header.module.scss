@@ -1,0 +1,112 @@
+.top-menu-div {
+  box-shadow: 0 2px 6px 0 rgb(218 218 253 / 10%),
+    0 2px 6px 0 rgb(206 206 238 / 40%);
+  width: 100%;
+  padding: 15px 10px 10px;
+  margin: 0 auto;
+}
+
+.navugationSec .container {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.carousel-channels {
+  width: 72px;
+  height: 72px;
+  border: 0.7px solid rgba(242, 91, 91, 0.3);
+  border-radius: 50%;
+  object-fit: contain;
+  /* background: rgba(214, 214, 214, 0.5); */
+}
+
+.grey-background {
+  background: rgba(214, 214, 214, 0.5);
+}
+
+.white-background {
+  background: white;
+}
+
+.headerActive {
+  background: white;
+  color: #e5030e !important;
+}
+
+.headMidSec {
+  cursor: pointer;
+}
+
+.headMidSec span img {
+  width: 5%;
+}
+
+.chiller-theme .sidebar-wrapper .sidebar-menu ul li a i {
+  background: none;
+}
+
+.chiller-theme .sidebar-wrapper .sidebar-menu ul li a {
+  color: #2e2e2e;
+}
+
+.sidebar-dropdown img {
+  width: 25px;
+}
+
+.sidebar-dropdown a {
+  cursor: pointer;
+  /* display: flex;
+    align-items: center; */
+}
+
+.login-logout-div {
+  position: absolute;
+  width: 100%;
+  /* bottom: 65px; */
+  border-top: none !important;
+}
+
+.login-logout-div a {
+  padding: 8px 20px;
+}
+
+.login-button,
+.logout-button {
+  text-align: center;
+  /* margin: 0 auto !important; */
+  line-height: 0;
+  font-size: 16px;
+  vertical-align: middle;
+  width: 100%;
+  padding: 1rem;
+}
+
+.login-button {
+  background: #6381f0;
+  color: #fff;
+}
+
+.logout-button {
+  background: white;
+  color: #ec2126;
+  border: 1px solid #ec2126;
+}
+
+::ng-deep .flickity-prev-next-button:disabled {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .headLogoSec img {
+    width: 80%;
+  }
+
+  .navLogoClass {
+    width: 40%;
+  }
+
+  .carousel-channels {
+    width: 60px;
+    height: 60px;
+  }
+}

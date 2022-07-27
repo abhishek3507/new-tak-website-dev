@@ -1,0 +1,81 @@
+@import '~video.js/dist/video-js.css';
+
+#live-video-section{
+    margin-top: 74px;
+}
+
+#live-video-section .nav-pills {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#live-video-section .nav-pills .nav-item{
+    width: 50%;
+    text-align: center;
+}
+
+#live-video-section .nav-pills .nav-item .nav-link.active{
+    background: white;
+    border-bottom: 2px solid #ec2126;
+    border-radius: 0;
+    color: #ec2126;
+    font-size: 16px;
+}
+
+
+#live-video-section .live-card-div{
+    padding: 0 !important;
+    position: sticky;
+    top: 73px;
+    max-width: 576px;
+    z-index: 5;
+}
+
+#live-video-section .live-card{
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+
+#live-video-section .live-video-container{
+    /* min-height: 83vh; */
+    min-height: 500px;
+}
+
+#live-video-section video{
+    width: 100%;
+}
+
+#live-video-section .view-previous{
+    cursor: pointer;
+}
+
+#live-video-section textarea{
+    height: 45px !important;
+}
+
+#live-video-section .live-strem-details{
+    margin-top: 10px;
+}
+
+#live-video-section .no-live-stream{
+    min-height: 83vh;
+    /* background-color: white; */
+}
+
+#live-video-section .no-live-stream h1{
+    color:#212529;
+    font-size: 20px;
+}
+
+#live-video-section .live-overlay {
+    position: absolute; 
+    top:0;
+    bottom: 0; 
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    opacity:1;
+}

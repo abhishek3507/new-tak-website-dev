@@ -1,0 +1,81 @@
+{   
+    "download":"Download",
+    "share":"Share",
+    "caste_vote":"Vote",
+    "header":{
+        "election_results":"Election Result",
+        "my_profile":"My Profile",
+        "preference":"Select Channel",
+        "feedback":"Feedback",
+        "rss":"RSS",
+        "about_us":"About Us",
+        "contact_info":"Contact Info",
+        "privacy_policy":"Privacy Policy",
+        "terms_and_conditions":"Terms of Use",
+        "log_in":"Log In",
+        "log_out":"Log Out",
+        "language":{
+            "title":"Navigation Language",
+            "english":"English",
+            "hindi":"हिन्दी",
+            "gujarati":"ગુજરાતી",
+            "punjabi":"ਪੰਜਾਬੀ",
+            "marathi":"मराठी",
+            "kannada":"ಕನ್ನಡ"
+        }        
+    },
+    "footer":{
+        "home":"Home",
+        "shorts":"Fatak",
+        "spotlight":"Spotlight",
+        "discover":"Discover",
+        "social_news":"Social News"
+    },
+    "spotlight":{
+        "search_spotlight":"Search Spotlight",
+        "all_stories":"All Stories",
+        "no_story":"No Story"
+    },
+    "discover":{
+        "spotlight":"Spotlight",
+        "caste_vote":"Vote",
+        "breaking_for_you":"Breaking For You"
+    },
+    "live":{
+        "comments":"comments",
+        "view_previous_comments":"View Previous Comments",
+        "no_comments_yet":"No Comments Yet!",
+        "be_the_first_to_comment":"Be the first to comment",
+        "sign_in_to_comment":"Sign In to Comment",
+        "no_live":"Live Ended"
+    },
+    "login":{
+        "main_title":"Welcome to TAK!",
+        "secondary_title":"Please Sign In",
+        "google_sign_in":"Sign In via Google",
+        "agree_line_1":"By creating this account, I agree to the",
+        "agree_line_2":"and",
+        "agree_line_3":"of the TAK App."
+    },
+    "profile":{
+        "my_profile":"My Profile",
+        "edit_profile":"Edit Profile",
+        "username":"Username",
+        "full_name":"Full Name",
+        "email":"Email",
+        "save":"Save",
+        "welcome":"Welcome!",
+        "welcome_start":"To begin, please enter your username.",
+        "user_name_not_available":"Username not available!",
+        "welcome_continue":"Continue"
+    },
+    "preference":{
+        "select_preference":"Select your preference",
+        "select_all":"Select All",
+        "save":"Save"
+    },
+    "navigation":{
+        "title":"Select App Navigation Language",
+        "save":"Save"
+    }
+}

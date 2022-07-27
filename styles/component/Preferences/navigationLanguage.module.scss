@@ -1,0 +1,67 @@
+// Channel Preference
+
+.channel-name-img{
+    cursor: pointer;
+}
+
+.form-check-label{
+  margin-top: 4px;
+}
+
+.form-check-label span{
+  font-size: 16px;
+  margin: 5px;
+}
+
+input.form-check-input{
+  width: 20px;
+  height: 20px;
+  border-color: #ec2126;
+}
+
+.save-div{
+  position: fixed;
+  bottom: 9vh;
+  padding: 0px !important;
+}
+
+// Navigation Preference
+
+#navigation-preference h2 {
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.languageDiv {
+  cursor: pointer;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #dbdbdb;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.languageTextSpan {
+  color: #979797;
+  /* font-family: Karma; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.languageImage {
+  text-align: right;
+}
+
+.save-div {
+  position: fixed;
+  bottom: 9vh;
+  /* width: 100vw; */
+  padding: 0px !important;
+}

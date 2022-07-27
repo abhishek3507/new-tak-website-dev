@@ -1,0 +1,21 @@
+.contactUs {
+  background-color: white;
+  text-align: center;
+
+  .contact-container {
+    padding-top: 2rem;
+    h5 {
+      font-weight: 500;
+      line-height: 1.2;
+      font-size: 1.25rem;
+    }
+    p {
+      padding-top: 1px;
+      padding-bottom: 1px;
+      margin: 0;
+    }
+    a {
+      text-decoration: underline !important;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.outWraper { margin:0px auto; padding:0px 0 20px 0; width:780px;}
+.wraper { margin:0px auto; padding:0px; width:780px;  background:#ea4809; padding-bottom:30px; margin-bottom:30px;}
+.topArea { margin:0px; padding:10px 0 10px 0; overflow:hidden; background:#d71920} 
+.topArea img  { margin-right:15px;}
+.pageArea { margin:0px auto; padding:0px; width:650px; margin-top:15px;  background:#fff }
+.contenArea { margin:0px; padding:15px; padding-bottom:0px;}
+.contenArea a { color:#6277A4; text-decoration:underline;}
+.pageArea h2 { margin:0px; padding:10px 0 10px 5px; font-size:13pt; font-weight: bold; background:#cc0000; color:#fff}
+.contenArea p { margin:0px; padding:0px 0 15px 0; line-height:18px;}
+
+.footArea { margin:0px; padding:0px;}
+.footArea p { margin:0px; padding:0px; font-size:11px; text-align:center; line-height:16px;}
+.footArea p a { color:#6277A4}
+.footLink { margin:0px; padding:0px 0 15px 0; overflow:hidden}
+.footLink ul { margin:0px; padding:0px; list-style:none; text-align:center}
+.footLink ul li { margin:0px; padding:3px 1px; display:inline-block; font-size:11px;}
+.footLink ul li a { color:#6277A4}
+
+.footBottom { margin:0px auto; padding:5px 0px; overflow:hidden;     border: 1px solid #BDD9E5; border-left:0px; border-right:0px; width:100%; margin-bottom:20px;}
+.footBottom ul { margin:0px; padding:0px; list-style:none; text-align:center}
+.footBottom ul li { margin:0px; padding:0px 1px; display:inline-block; color: #204fa4; font-weight:bold}
+.footBottom ul li a { color:#000}
+.footBottom ul li a:hover { color:#204fa4}
+
+.textFont12 { font-weight:bold; display:block; padding-bottom:5px;}
+
+@media screen and (max-width:1024px){}
+
+@media screen and (max-width:800px){}
+
+@media screen and (max-width:767px){
+.wraper, .outWraper, .pageArea { width:100%}
+.pageArea { width:95%}
+.pageArea h2 { text-align:center; font-size:14px !important;}
+.topArea img { display:block; margin-left:auto; margin-right:auto; float:none}	
+.footBottom ul li {    font-size: 11px; padding: 4px 2px;}
+.footArea { width:95%; margin-left:auto; margin-right:auto}
+}

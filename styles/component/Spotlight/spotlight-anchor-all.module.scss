@@ -1,0 +1,48 @@
+#my-profile{
+    margin-top: 73px;
+}
+
+.spotlight-all-container{
+    min-height: 83vh;
+}
+
+.infinite-scroll-section-spotlight {
+    height: auto;
+    /* overflow-y: scroll; */
+}
+
+.spotlight-all-container a{
+    cursor:  pointer !important;
+}
+
+.spotlight-story-play{
+    left: 44%;
+    top: 38%;
+}
+
+.spotlight-all-container .col-sm-12.bg-danger{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.anchor-header{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 73px;
+    max-width: 576px;
+    z-index: 5;
+    background: #fff;
+}
+
+.anchor-video-title{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    cursor: pointer;
+}
+  
+.anchor-video-title h3{
+    font-size: 16px;
+    line-height: 1.5;
+}

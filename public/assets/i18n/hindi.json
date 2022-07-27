@@ -1,0 +1,81 @@
+{   
+    "download":"डाउनलोड",
+    "share":"शेयर",
+    "caste_vote":"वोट करें",
+    "header":{
+        "election_results":"चुनाव नतीजे",
+        "my_profile":"मेरा प्रोफाइल",
+        "preference":"अपनी पसंद चुनें",
+        "feedback":"फीडबैक",
+        "rss":"आरएसएस",
+        "about_us":"हमारे बारे में",
+        "contact_info":"संपर्क करें",
+        "privacy_policy":"गोपनीयता नीति",
+        "terms_and_conditions":"उपयोग की शर्तें",
+        "log_in":"लॉग इन",
+        "log_out":"लॉग आउट",
+        "language":{
+            "title":"नेविगेशन की भाषा बदलें ",
+            "english":"English",
+            "hindi":"हिन्दी",
+            "gujarati":"ગુજરાતી",
+            "punjabi":"ਪੰਜਾਬੀ",
+            "marathi":"मराठी",
+            "kannada":"ಕನ್ನಡ"
+        }
+    },
+    "footer":{
+        "home":"होम",
+        "shorts":"फटाक",
+        "spotlight":"स्पॉटलाइट",
+        "discover":"डिस्कवर",
+        "social_news":"सोशल न्यूज़"
+    },
+    "spotlight":{
+        "search_spotlight":"सर्च स्पॉटलाइट",
+        "all_stories":"सारी स्टोरी",
+        "no_story":"कोई स्टोरी नहीं है"
+    },
+    "discover":{
+        "spotlight":"स्पॉटलाइट",
+        "caste_vote":"वोट करें",
+        "breaking_for_you":"ब्रेकिंग फॉर यू"
+    },
+    "live":{
+        "comments":"कमेंट्स",
+        "view_previous_comments":"पिछले कमेंट्स देखें",
+        "no_comments_yet":"अभी तक कोई टिप्पणी नहीं!",
+        "be_the_first_to_comment":"टिप्पणी करने वाले पहले व्यक्ति बनें",
+        "sign_in_to_comment":"कमेंट करने के लिए साइन इन करें",
+        "no_live":"लाइव समाप्त"
+    },
+    "login":{
+        "main_title":"तक पर स्वागत है!",
+        "secondary_title":"कृपया लॉग इन करें",
+        "google_sign_in":"गूगल से साइन इन करे",
+        "agree_line_1":"यह अकाउंट बनाकर, मैं तक ऐप की",
+        "agree_line_2":"और",
+        "agree_line_3":"स्वीकार करता हूँ"
+    },
+    "profile":{
+        "my_profile":"मेरा प्रोफाइल",
+        "edit_profile":"एडिट प्रोफाइल",
+        "username":"यूजरनेम",
+        "full_name":"पूरा नाम",
+        "email":"ई-मेल",
+        "save":"सेव",
+        "welcome":"वेलकम",
+        "welcome_start":"शुरू करने के लिए अपना यूजर नेम डालें",
+        "user_name_not_available":"यूजर नेम उपलब्ध नहीं है",
+        "welcome_continue":"जारी रखें"
+    },
+    "preference":{
+        "select_preference":"अपनी पसंद चुनें",
+        "select_all":"सब चुनें",
+        "save":"सेव"
+    },
+    "navigation":{
+        "title":"नेविगेशन की भाषा बदलें ",
+        "save":"सेव"
+    }
+}

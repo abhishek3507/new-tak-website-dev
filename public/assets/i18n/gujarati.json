@@ -1,0 +1,81 @@
+{   
+    "download":"ડાઉનલોડ કરો",
+    "share":"શેર કરો",
+    "caste_vote":"વોટ કરો",
+    "header":{
+        "election_results":"ચૂંટણીનું પરિણામ",
+        "my_profile":"મારી પ્રોફાઈલ",
+        "preference":"આપની પસંદ",
+        "feedback":"પ્રતિભાવ",
+        "rss":"રસસ",
+        "about_us":"અમારા વિશે",
+        "contact_info":"સંપર્ક કરો",
+        "privacy_policy":"ગોપનીયિતા નીતિ",
+        "terms_and_conditions":"વાપરવાના નિયમો",
+        "log_in":"લોગ ઈન",
+        "log_out":"લૉગ આઉટ",
+        "language":{
+            "title":"નેવિગેશન ભાષા બદલો",
+            "english":"English",
+            "hindi":"हिन्दी",
+            "gujarati":"ગુજરાતી",
+            "punjabi":"ਪੰਜਾਬੀ",
+            "marathi":"मराठी",
+            "kannada":"ಕನ್ನಡ"
+        }        
+    },
+    "footer":{
+        "home":"હોમ",
+        "shorts":"ફટાક",
+        "spotlight":"સ્પૉટલાઈટ",
+        "discover":"ડિસ્કવર",
+        "social_news":"સોશ્યિલ સમાચાર"
+    },
+    "spotlight":{
+        "search_spotlight":"સર્ચ સ્પૉટલાઈટ",
+        "all_stories":"સારી સ્ટોરી",
+        "no_story":"કોઈ સ્ટોરી નથી"
+    },
+    "discover":{
+        "spotlight":"સ્પૉટલાઈટ",
+        "caste_vote":"વોટ કરો",
+        "breaking_for_you":"બ્રેકિંગ ફોર યુ"
+    },
+    "live":{
+        "comments":"ટિપ્પણી",
+        "view_previous_comments":"પાછળની ટિપ્પણીઓ જૂઓ",
+        "no_comments_yet":"અત્યારસુધી કોઈ ટિપ્પણી નહીં!",
+        "be_the_first_to_comment":"ટિપ્પણી કરનારા પહેલા વ્યક્તિ બનો",
+        "sign_in_to_comment":"કમેન્ટ કરવા માટે સાઈન ઈન કરો",
+        "no_live":"લાઈવ સમાપ્ત"
+    },
+    "login":{
+        "main_title":"તક પર સ્વાગત છે!",
+        "secondary_title":"કૃપા કરીને સાઇન ઇન કરો",
+        "google_sign_in":"ગૂગલ પરથી સાઇન ઇન કરો",
+        "agree_line_1":"આ એકાઉન્ટ બનાવીને હું Tak એપની",
+        "agree_line_2":"અને",
+        "agree_line_3":"સ્વીકારું છું."
+    },
+    "profile":{
+        "my_profile":"મારો પ્રોફાઈલ",
+        "edit_profile":"પ્રોફાઇલ સંપાદિત કરો",
+        "username":"વપરાશકર્તા નામ",
+        "full_name":"પૂરું નામ",
+        "email":"ઈ-મેલ",
+        "save":"સેવ",
+        "welcome":"સ્વાગત છે!",
+        "welcome_start":"પ્રારંભ કરવા માટે તમારું વપરાશકર્તા નામ દાખલ કરો.",
+        "user_name_not_available":"યૂઝર નામ ઉપલબ્ધ નથી!",
+        "welcome_continue":"ચાલુ રાખો"
+    },
+    "preference":{
+        "select_preference":"આપની પસંદ",
+        "select_all":"બધુ પસંદ કરો",
+        "save":"સેવ"
+    },
+    "navigation":{
+        "title":"નેવિગેશન ભાષા બદલો",
+        "save":"સેવ"
+    }
+}
